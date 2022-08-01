@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wajahatmasood&label=Profile%20views&color=0e75b6&style=flat" alt="wajahatmasood" /> </p>
 
-<p align="left"> <a href="https://twitter.com/wajahatmasood12" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/wajahatmasood12?logo=twitter&style=for-the-badge" alt="https://twitter.com/wajahatmasood12" /></a> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **MERN, PHP**
@@ -17,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/wajahatmasood12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/wajahatmasood12" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/wajahat-masood-17933222a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wajahat-masood-17933222a/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/wajahat_o_o_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/wajahat_o_o_/" height="30" width="40" /></a>
+<a href="https://twitter.com/wajahatmasood12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/wajahatmasood12" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/wajahat-masood-17933222a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wajahat-masood-17933222a/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/wajahat_o_o_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/wajahat_o_o_/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
