@@ -1,30 +1,223 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://WajahatMasood.io)
-<h1 align="center">Hi 👋, I'm Wajahat Masood</h1>
-<h3 align="center">A passionate Software developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=HELLO+People!+👋;Wajaht+Masood+Here....;Welcome+TO+My+Github!&center=true&size=30"> 
+  </a>
+</h1>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wajahatmasood&label=Profile%20views&color=0e75b6&style=flat" alt="wajahatmasood" /> </p>
+<!-- [<img align="center" src="https://github-spotify-ahmednibras.vercel.app/api/spotify" alt="Mingo Spotify" width="350" />](https://open.spotify.com/user/31ostlzyi4ydkljjoftd5pnjzwde?si=85afbc7e2bdc439b)  -->
 
-- 🌱 I’m currently learning **React**
+</br>
 
-- 💬 Ask me about **MERN, PHP**
 
-- 📫 How to reach me **wajahatmasood12@gmail.com**
 
-- ⚡ Fun fact **I am lil bit funny XD**
+> 🔭 I’m currently working on Web Development
+ > 
+> 🌱 I’m currently learning MERN
+ >
+> 🤔 I’m looking for help with Google
+ >
+> 💬 Ask me about anything
+ >
+> 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/wajahat-masood-17933222a/)
+ >
+> 😄 Pronouns: he/him
+ >
+> ⚡ Fun fact: Graphic Designer, Digital Marketer
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/wajahatmasood12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/wajahatmasood12" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/wajahat-masood-17933222a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wajahat-masood-17933222a/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/wajahat_o_o_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/wajahat_o_o_/" height="30" width="40" /></a>
+<h2 align="center"> 
+ <i> 🤝🏻 CONNECT WITH ME</i>
+</h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/wajahat-masood-17933222a/"><img src="https://img.shields.io/badge/-Wajahat%20Masood-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:wajahatmasood12@gmail.com"><img src="https://img.shields.io/badge/-wajahatmasood12@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/wajahat_o_o_/"><img src="https://img.shields.io/badge/-@wajahat_o_o_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<!-- <a href="https://www.facebook.com/nibras25/"><img src="https://img.shields.io/badge/-@Nibras_Ahmed-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<!-- <p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/ahmednibras/ahmednibras"></a> 
+</p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wajahatmasood&show_icons=true&locale=en&layout=compact" alt="wajahatmasood" /></p>
+<details align="center">
+    <summary> <samp>&#9776; Read More</samp></summary>
+<h2 align="center"><i>💻 TECH HOUSE </i></h2>
+
+<p align='center'>
+  <table width="100">
+    
+  <tr>
+    
+  <td align='center' width="190">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  </td>
+    
+  <td align='center' width="190">
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> 
+  </td>
+    
+  <td align='center' width="190">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  </td>
+    
+  <td align='center' width="190">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> 
+  </td>
+    
+  <td align='center' width="190">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> 
+  </td>
+    
+  <td align='center' width="190">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  </td>
+    
+  <td align='center' width="190">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
+  </td>
+    
+<!--   <td align='center' width="190">                 
+  <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"> 
+  </td> -->
+    
+<!--   <td align='center' width="190">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
+  </td> -->
+    
+  </tr>
+    
+  <tr>
+    
+  <td align='center'>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
+  </td>
+    
+<!--   <td align='center'>
+   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
+  </td>
+     -->
+  <td align='center'>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> 
+  </td>  
+      
+<!--   <td align='center'>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> 
+  </td>   -->
+        
+<!--   <td align='center'>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 
+  </td>   
+                 -->
+  <td align='center'>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
+  </td>   
+            
+            
+<!--   <td align='center'>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> 
+  </td>   
+               -->
+  <td align='center'>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> 
+  </td>   
+                
+  <td align='center'>
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat">
+  </td>   
+    
+  </tr>
+    
+  </p>
+   
+  </table>
+   
+   
+  <h2 align="center"><i>💻 MY WORKSPACE</i></h2>
+  <p align='center'>
+  
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/ntel(R)%20Core(TM)%20i5-4300U%20CPU%20@%201.90GHz%20%20%202.50%20GHz-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intel-Graphic-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
+
+
+
+<h2 align="center"><i>⚡ GITHUB STATS</i></h2>
+<p align="center">
+  
+<!--   <img align="center" alt="Wajahat Github Stats" src="https://github-readme-stats-ahmednibras.vercel.app/api?username=ahmednibras&show_icons=true&hide_border= true&theme=tokyonight" /> -->
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wajahatmasood&show_icons=true&locale=en&layout=compact" alt="wajahatmasood" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wajahatmasood&show_icons=true&locale=en" alt="wajahatmasood" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wajahatmasood&" alt="wajahatmasood" /></p>
+
+ </p>
+ 
+ </details>
+ <details>
+  <summary>📃 Resume</summary>
+ 
+## Education
+
+- 📖 **Software Engineering**\
+📆 2019 - current\
+📍 **COMSATS University Islamabad (CUI)** - Pakistan
+
+## Experience
+
+
+- 👨‍💻 **Web Development**\
+📆 2021 - moment\
+📍 **COMSATS University Islamabad** , pakistan
+  
+- 👨‍💻 **Digital Marketing**\
+📆 2021 - moment\
+📍 **Fiverr
+  
+- 👨‍💻 **POF Internship**\
+  CodeIgniter
+📆 july-2022 - Aug-2022\
+📍 **POF
+  
+
+
+<img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?" />
+<img align="right" src="https://img.shields.io/badge/PHP(CodeIgniter)-777BB4?logo=php&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Java-239120?" />
+  <img align="right" src="https://img.shields.io/badge/MongoDB-239120?" />
+<img align="right" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/React-A8B9CC?logo=c&logoColor=white" />
+
+**Programming**
+
+<img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+
+**Operating Systems**
+
+
+
+
+ </details>
+
+
+ 
+  [twitter]: https://twitter.com/Nibras80624930
+  [reddit]: https://www.reddit.com/user/Nibras_Ahmed
+  [facebook]: https://www.facebook.com/nibras25/
+  [instagram]: https://www.instagram.com/nibras.ahmed.1/
+  [youtube]: https://www.youtube.com/c/MINGO07
+  [linkedin]: https://www.linkedin.com/in/nibras-ahmed-9031b2201/
+  
+  
+  <!-- Footer -->
+<samp>
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        "Love Code👨‍💻!"
+    </p>
+</samp>
