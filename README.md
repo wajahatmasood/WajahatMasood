@@ -147,7 +147,8 @@
 <p align="center">
   
 <!--   <img align="center" alt="Wajahat Github Stats" src="https://github-readme-stats-ahmednibras.vercel.app/api?username=ahmednibras&show_icons=true&hide_border= true&theme=tokyonight" /> -->
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wajahatmasood&show_icons=true&locale=en&layout=compact" alt="wajahatmasood" /></p>
+    
+<!--   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wajahatmasood&show_icons=true&locale=en&layout=compact" alt="wajahatmasood" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wajahatmasood&show_icons=true&locale=en" alt="wajahatmasood" /></p>
 
