@@ -10,7 +10,7 @@
 
 
 [![Spotify](https://novatorem-wheat-delta.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DX5Vy6DFOcx00)
-
+/?background_color=8b0000&border_color=ffffff
 
 </br>
 
