@@ -7,6 +7,10 @@
 
 <!-- [<img align="center" src="https://github-spotify-ahmednibras.vercel.app/api/spotify" alt="Mingo Spotify" width="350" />](https://open.spotify.com/user/31ostlzyi4ydkljjoftd5pnjzwde?si=85afbc7e2bdc439b)  -->
 
+[![Spotify](https://novatorem-wheat-delta.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DX5Vy6DFOcx00)
+
+
+
 </br>
 
 
