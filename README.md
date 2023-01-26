@@ -1,4 +1,5 @@
-[![MasterHead](https://camo.githubusercontent.com/36500fe1645489b5fc245d2e6b129426a1d139cc3ae4f8389099aa14d3bb0667/68747470733a2f2f7777772e7468656d61737465727069636b732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f32326232323238373630323532332e356462643239303831353631642e676966)](https://WajahatMasood.io)
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=HELLO+People!+👋;Wajaht+Masood+Here....;Welcome+TO+My+Github!&center=true&size=30"> 
   </a>
@@ -22,7 +23,7 @@
  >
 > 💬 Ask me about anything
  >
-> 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/wajahat-masood-17933222a/)
+> 📫 How to reach me: [Linkedin](www.linkedin.com/in/wajahat-masood-🌟-17933222a)
  >
 > 😄 Pronouns: he/him
  >
@@ -78,6 +79,11 @@
   <td align='center' width="190">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
   </td>
+      
+### GitHub Activity Graph
+[![heyvaldemar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WajahatMasood&color=00447C&line=9046FF&hide_title=true&hide_border=true&theme=github-compact&point=9046FF)](https://github.com/heyvaldemar)
+
+<div align="center">
     
 <!--   <td align='center' width="190">                 
   <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"> 
@@ -207,17 +213,8 @@
 
  </details>
 
-
- 
-  [twitter]: https://twitter.com/Nibras80624930
-  [reddit]: https://www.reddit.com/user/Nibras_Ahmed
-  [facebook]: https://www.facebook.com/nibras25/
-  [instagram]: https://www.instagram.com/nibras.ahmed.1/
-  [youtube]: https://www.youtube.com/c/MINGO07
-  [linkedin]: https://www.linkedin.com/in/nibras-ahmed-9031b2201/
-  
-  
   <!-- Footer -->
+  
 <samp>
     <p align="center">
         ════ ⋆★⋆ ════
@@ -225,3 +222,5 @@
         "Love Code👨‍💻!"
     </p>
 </samp>
+
+
